@@ -1,4 +1,4 @@
-package TestNG.introduction;
+package TestNG.Introduction;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -12,7 +12,7 @@ import org.testng.Assert;
 //testing paralelo
 
 
-public class testngIntroduction {
+public class Introduction {
 
     private String url = "https://demoqa.com/";
     WebDriver driver;

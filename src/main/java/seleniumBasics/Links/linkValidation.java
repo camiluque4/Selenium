@@ -1,4 +1,4 @@
-package Links;
+package seleniumBasics.Links;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

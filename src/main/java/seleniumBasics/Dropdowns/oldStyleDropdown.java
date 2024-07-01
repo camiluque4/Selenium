@@ -1,4 +1,4 @@
-package Dropdowns;
+package seleniumBasics.Dropdowns;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By;
