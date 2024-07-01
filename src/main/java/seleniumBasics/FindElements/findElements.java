@@ -1,4 +1,4 @@
-package locators;
+package seleniumBasics.locators;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
